@@ -1,5 +1,4 @@
-# Real-time-Keylogger-with-Dashboard
-------------------------------------
+# Real-Time-Keylogger
 ------------------------------------
 
 Project Overview:
